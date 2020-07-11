@@ -12,7 +12,7 @@ description: "記事の説明."
 socialImage: "/media/image-2.jpg"
 ---
 
-test
+test2
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
