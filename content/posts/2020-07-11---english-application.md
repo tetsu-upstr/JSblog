@@ -1,5 +1,5 @@
 ---
-title: 英語学習用アプリケーション
+title: 英語の学習用アプリケーション作成
 date: "2020-07-01T23:46:37.121Z"
 template: "post"
 draft: false
@@ -24,7 +24,8 @@ socialImage: "/media/image-2.jpg"
 - SNSシェア
 - 学習記録の視覚化
 
-自分でも使いやすく、学習に役立てるものを作りたいと思います。
+自分でも使いやすく、学習に役立てるものにしたいですね。
+フレームワークの練習として、ベースはLaravelで作りたいと思います。
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+<!-- ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg) -->
 
