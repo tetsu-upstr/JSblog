@@ -1,15 +1,17 @@
 ---
-title: The Origins of Social Stationery Lettering
+title: 30代から敢えて未経験からエンジニアを目指す理由
 date: "2019-12-25T14:48:03.284Z"
 template: "post"
 draft: false
 slug: "the-reason"
 category: "career"
-description: "この記事では、34歳のアラフォー未経験からエンジニアを目指すに至った経緯について書いています。年齢的なハンデがある中、改めてプログラミング学習をスタートする理由を解説します。"
+description: "この記事では、34歳のアラフォー未経験からエンジニアを目指すに至った経緯について書いています。"
 socialImage: "/media/image-3.jpg"
 ---
 
 この記事では、アラフォー未経験からエンジニアを目指すに至った経緯について書いています。
+
+年齢的なハンデがある中、改めてプログラミング学習をスタートする理由を解説します。
 
 ## プログラミングの勉強をスタートするまでの経緯
 
@@ -33,11 +35,11 @@ socialImage: "/media/image-3.jpg"
 
 ブログ運営によって、
 
- - 失業時のリスク分散
- - webマーケティング学習
- - ライティングなどのスキル獲得
- 
- 等を目指しました。
+- 失業時のリスク分散
+- webマーケティング学習
+- ライティングなどのスキル獲得
+
+等を目指しました。
 
 mixhostでレンタルサーバーを借り、独自ドメインを取得してWordPressブログを開設しました。
 
@@ -73,9 +75,9 @@ php等を理解する事で、ブログのカスタマイズ等にも応用で�
 
 現在、エンジニアを目指す目的は、下記の3つです。
 
- - 技術を身につけ、課題を解決し貢献できる人材になりたい
- - ITリテラシーを活用し、困っている人や自分の子どもに教えられるようになりたい
- - 業務の効率化や、面白いサービスの開発に携わりたい
+- 技術を身につけ、課題を解決し貢献できる人材になりたい
+- ITリテラシーを活用し、困っている人や自分の子どもに教えられるようになりたい
+- 業務の効率化や、面白いサービスの開発に携わりたい
 
 その為に、今までブログに費やしていた時間を全てプログラミング学習に充てています。
 
@@ -96,26 +98,3 @@ php等を理解する事で、ブログのカスタマイズ等にも応用で�
 テクノロジーが進化し、不可能だったことが実現できるようになった時、アイデアを実現できる技術を身に付けておきたいという思いをモチベーションとしています。
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-3.jpg)
-
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-![Test SVG](/media/cpu.svg)
